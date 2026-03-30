@@ -1,0 +1,15 @@
+Neo-Heinzel
+Copyright 2026 Ulrich Cuber / cuber IT service (www.uc-it.de)
+
+This product includes software developed by third parties:
+
+- gopkg.in/yaml.v3 (MIT) — YAML parsing
+- golang.org/x/net (BSD-3) — HTML tokenizer
+- github.com/jaytaylor/html2text (MIT) — HTML to text conversion
+- modernc.org/sqlite (BSD-3) — Pure Go SQLite driver
+- github.com/fatih/color (MIT) — Terminal colors
+- github.com/mattn/go-isatty (MIT) — TTY detection
+- github.com/mattn/go-runewidth (MIT) — Unicode width calculation
+- github.com/olekukonko/tablewriter (MIT) — Table formatting
+- github.com/google/uuid (BSD-3) — UUID generation
+- github.com/dustin/go-humanize (MIT) — Human-readable formatting
